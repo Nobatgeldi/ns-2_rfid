@@ -1,0 +1,422 @@
+s -t 0.000000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+s -t 0.000050007 -Zt 1 -Zi 1 -Zs 10 -Zd 10 -Zc 0 -Zq 2 -Zr 0.815 -Zv 4
+r -t 0.000050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 0 -Zq 2 -Zv 4 -Zz 0 Xc 0 Xi 0 Xs 0 -Ss 1
+r -t 0.000448013 -Zt 1 -Zi 0 -Zs 10 -Zd 10 -Zc 0 -Zq 2 -Zr 0.815 -Zv 4
+s -t 0.001000000 -Zt 0 -Zi 0 -Zs 200 -Zd 10 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+s -t 0.001000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001050007 -Zt 0 -Zi 1 -Zs 200 -Zd 10 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+s -t 0.001050007 -Zt 1 -Zi 1 -Zs 10 -Zd 10 -Zc 5 -Zq 2 -Zr 0.815 -Zv 4
+r -t 0.001100013 -Zt 1 -Zi 0 -Zs 10 -Zd 10 -Zc 5 -Zq 2 -Zr 0.815 -Zv 4
+r -t 0.001322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+s -t 0.001322007 -Zt 1 -Zi 5 -Zs 50 -Zd 50 -Zc 2 -Zq 2 -Zr 1.449 -Zv 4
+r -t 0.001322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 1 Xc 0 Xi 0 Xs 1 -Ss 1
+r -t 0.001720015 -Zt 1 -Zi 0 -Zs 50 -Zd 50 -Zc 2 -Zq 2 -Zr 1.449 -Zv 4
+s -t 0.002000000 -Zt 0 -Zi 0 -Zs 200 -Zd 50 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+s -t 0.002000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002050007 -Zt 0 -Zi 5 -Zs 200 -Zd 50 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+s -t 0.002050007 -Zt 1 -Zi 5 -Zs 50 -Zd 50 -Zc 5 -Zq 2 -Zr 1.449 -Zv 4
+r -t 0.002100015 -Zt 1 -Zi 0 -Zs 50 -Zd 50 -Zc 5 -Zq 2 -Zr 1.449 -Zv 4
+r -t 0.002322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+s -t 0.002322006 -Zt 1 -Zi 7 -Zs 70 -Zd 70 -Zc 2 -Zq 2 -Zr 2.169 -Zv 4
+r -t 0.002322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 2 Xc 0 Xi 0 Xs 2 -Ss 1
+r -t 0.002720013 -Zt 1 -Zi 0 -Zs 70 -Zd 70 -Zc 2 -Zq 2 -Zr 2.169 -Zv 4
+s -t 0.003000000 -Zt 0 -Zi 0 -Zs 200 -Zd 70 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+s -t 0.003000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003050006 -Zt 0 -Zi 7 -Zs 200 -Zd 70 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+s -t 0.003050006 -Zt 1 -Zi 7 -Zs 70 -Zd 70 -Zc 5 -Zq 2 -Zr 2.169 -Zv 4
+r -t 0.003100013 -Zt 1 -Zi 0 -Zs 70 -Zd 70 -Zc 5 -Zq 2 -Zr 2.169 -Zv 4
+r -t 0.003322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+s -t 0.003322007 -Zt 1 -Zi 6 -Zs 60 -Zd 60 -Zc 2 -Zq 2 -Zr 3.756 -Zv 4
+r -t 0.003322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+r -t 0.003322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 3 Xc 0 Xi 0 Xs 3 -Ss 1
+s -t 0.003322008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 2 -Zq 2 -Zr 3.582 -Zv 4
+r -t 0.003720014 -Zt 1 -Zi 0 -Zs 60 -Zd 60 -Zc 2 -Zq 2 -Zr 3.756 -Zv 4
+r -t 0.003967016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 2 -Zq 2 -Zr 3.582 -Zv 4
+s -t 0.004000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+s -t 0.004330005 -Zt 1 -Zi 3 -Zs 30 -Zd 30 -Zc 1 -Zq 2 -Zr 0.620 -Zv 4
+r -t 0.004330005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004330008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 4 Xc 1 Xi 0 Xs 3 -Ss 1
+r -t 0.004728010 -Zt 1 -Zi 0 -Zs 30 -Zd 30 -Zc 1 -Zq 2 -Zr 0.620 -Zv 4
+s -t 0.005000000 -Zt 0 -Zi 0 -Zs 200 -Zd 30 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+s -t 0.005000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005050005 -Zt 0 -Zi 3 -Zs 200 -Zd 30 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+s -t 0.005050005 -Zt 1 -Zi 3 -Zs 30 -Zd 30 -Zc 5 -Zq 2 -Zr 0.620 -Zv 4
+r -t 0.005100010 -Zt 1 -Zi 0 -Zs 30 -Zd 30 -Zc 5 -Zq 2 -Zr 0.620 -Zv 4
+r -t 0.005322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+r -t 0.005322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 4 -Zz 5 Xc 1 Xi 0 Xs 4 -Ss 1
+s -t 0.006000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+r -t 0.006050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 6 Xc 1 Xi 1 Xs 4 -Ss 1
+s -t 0.007000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+r -t 0.007050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 4 -Zz 7 Xc 1 Xi 2 Xs 4 -Ss 1
+s -t 0.008000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+s -t 0.008050007 -Zt 1 -Zi 6 -Zs 60 -Zd 60 -Zc 1 -Zq 2 -Zr 0.366 -Zv 3
+r -t 0.008050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 8 Xc 1 Xi 3 Xs 4 -Ss 1
+r -t 0.008100014 -Zt 1 -Zi 0 -Zs 60 -Zd 60 -Zc 1 -Zq 2 -Zr 0.366 -Zv 3
+s -t 0.009000000 -Zt 0 -Zi 0 -Zs 200 -Zd 60 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+s -t 0.009000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009050007 -Zt 0 -Zi 6 -Zs 200 -Zd 60 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+s -t 0.009050007 -Zt 1 -Zi 6 -Zs 60 -Zd 60 -Zc 5 -Zq 2 -Zr 0.366 -Zv 3
+r -t 0.009100014 -Zt 1 -Zi 0 -Zs 60 -Zd 60 -Zc 5 -Zq 2 -Zr 0.366 -Zv 3
+r -t 0.009322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+r -t 0.009322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 9 Xc 1 Xi 3 Xs 5 -Ss 1
+s -t 0.010000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+r -t 0.010050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 10 Xc 1 Xi 4 Xs 5 -Ss 1
+s -t 0.011000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+r -t 0.011050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 11 Xc 1 Xi 5 Xs 5 -Ss 1
+s -t 0.012000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+s -t 0.012050004 -Zt 1 -Zi 9 -Zs 90 -Zd 90 -Zc 1 -Zq 2 -Zr 0.802 -Zv 3
+r -t 0.012050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 12 Xc 1 Xi 6 Xs 5 -Ss 1
+r -t 0.012448007 -Zt 1 -Zi 0 -Zs 90 -Zd 90 -Zc 1 -Zq 2 -Zr 0.802 -Zv 3
+s -t 0.013000000 -Zt 0 -Zi 0 -Zs 200 -Zd 90 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+s -t 0.013000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013050004 -Zt 0 -Zi 9 -Zs 200 -Zd 90 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+s -t 0.013050004 -Zt 1 -Zi 9 -Zs 90 -Zd 90 -Zc 5 -Zq 2 -Zr 0.802 -Zv 3
+r -t 0.013100007 -Zt 1 -Zi 0 -Zs 90 -Zd 90 -Zc 5 -Zq 2 -Zr 0.802 -Zv 3
+r -t 0.013322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+r -t 0.013322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 13 Xc 1 Xi 6 Xs 6 -Ss 1
+s -t 0.014000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+r -t 0.014050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 14 Xc 1 Xi 7 Xs 6 -Ss 1
+s -t 0.015000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+r -t 0.015050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 15 Xc 1 Xi 8 Xs 6 -Ss 1
+s -t 0.016000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+r -t 0.016050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 16 Xc 1 Xi 9 Xs 6 -Ss 1
+s -t 0.017000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+s -t 0.017050005 -Zt 1 -Zi 8 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.918 -Zv 1
+r -t 0.017050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+s -t 0.017050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.259 -Zv 1
+r -t 0.017050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+r -t 0.017050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 17 Xc 1 Xi 10 Xs 6 -Ss 1
+s -t 0.017050008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.570 -Zv 1
+r -t 0.017100016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.570 -Zv 1
+r -t 0.017448010 -Zt 1 -Zi 0 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.918 -Zv 1
+r -t 0.017695012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.259 -Zv 1
+s -t 0.018000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+r -t 0.018058008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 18 Xc 2 Xi 10 Xs 6 -Ss 1
+s -t 0.019000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+s -t 0.019050005 -Zt 1 -Zi 8 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.572 -Zv 1
+r -t 0.019050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+s -t 0.019050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.618 -Zv 1
+r -t 0.019050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+r -t 0.019050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 19 Xc 2 Xi 11 Xs 6 -Ss 1
+s -t 0.019050008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.591 -Zv 1
+r -t 0.019100010 -Zt 1 -Zi 0 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.572 -Zv 1
+r -t 0.019100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.618 -Zv 1
+r -t 0.019100016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.591 -Zv 1
+s -t 0.020000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+s -t 0.020050005 -Zt 1 -Zi 8 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.184 -Zv 2
+r -t 0.020050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+s -t 0.020050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.839 -Zv 2
+r -t 0.020050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 20 Xc 3 Xi 11 Xs 6 -Ss 1
+r -t 0.020100010 -Zt 1 -Zi 0 -Zs 80 -Zd 80 -Zc 1 -Zq 2 -Zr 0.184 -Zv 2
+r -t 0.020100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.839 -Zv 2
+s -t 0.021000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+s -t 0.021050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.459 -Zv 2
+r -t 0.021050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+r -t 0.021050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 21 Xc 4 Xi 11 Xs 6 -Ss 1
+s -t 0.021050008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.769 -Zv 2
+r -t 0.021100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.459 -Zv 2
+r -t 0.021100016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.769 -Zv 2
+s -t 0.022000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+s -t 0.022050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.230 -Zv 2
+r -t 0.022050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+r -t 0.022050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 22 Xc 5 Xi 11 Xs 6 -Ss 1
+s -t 0.022050008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.752 -Zv 2
+r -t 0.022100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.230 -Zv 2
+r -t 0.022100016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 1 -Zq 2 -Zr 0.752 -Zv 2
+s -t 0.023000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+s -t 0.023050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.709 -Zv 3
+r -t 0.023050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 3 -Zz 23 Xc 6 Xi 11 Xs 6 -Ss 1
+r -t 0.023100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 1 -Zq 2 -Zr 0.709 -Zv 3
+s -t 0.024000000 -Zt 0 -Zi 0 -Zs 200 -Zd 40 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+s -t 0.024000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024050006 -Zt 0 -Zi 4 -Zs 200 -Zd 40 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+s -t 0.024050006 -Zt 1 -Zi 4 -Zs 40 -Zd 40 -Zc 5 -Zq 2 -Zr 0.709 -Zv 3
+r -t 0.024100012 -Zt 1 -Zi 0 -Zs 40 -Zd 40 -Zc 5 -Zq 2 -Zr 0.709 -Zv 3
+r -t 0.024322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+s -t 0.024322005 -Zt 1 -Zi 8 -Zs 80 -Zd 80 -Zc 2 -Zq 2 -Zr 1.215 -Zv 3
+r -t 0.024322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 24 Xc 6 Xi 11 Xs 7 -Ss 1
+r -t 0.024372010 -Zt 1 -Zi 0 -Zs 80 -Zd 80 -Zc 2 -Zq 2 -Zr 1.215 -Zv 3
+s -t 0.025000000 -Zt 0 -Zi 0 -Zs 200 -Zd 80 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+s -t 0.025000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025050005 -Zt 0 -Zi 8 -Zs 200 -Zd 80 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+s -t 0.025050005 -Zt 1 -Zi 8 -Zs 80 -Zd 80 -Zc 5 -Zq 2 -Zr 1.215 -Zv 3
+r -t 0.025100010 -Zt 1 -Zi 0 -Zs 80 -Zd 80 -Zc 5 -Zq 2 -Zr 1.215 -Zv 3
+r -t 0.025322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+r -t 0.025322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 25 Xc 6 Xi 11 Xs 8 -Ss 1
+s -t 0.025322008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 2 -Zq 2 -Zr 2.429 -Zv 3
+r -t 0.025372016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 2 -Zq 2 -Zr 2.429 -Zv 3
+s -t 0.026000000 -Zt 0 -Zi 0 -Zs 200 -Zd 20 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+s -t 0.026000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026050008 -Zt 0 -Zi 2 -Zs 200 -Zd 20 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+s -t 0.026050008 -Zt 1 -Zi 2 -Zs 20 -Zd 20 -Zc 5 -Zq 2 -Zr 2.429 -Zv 3
+r -t 0.026100016 -Zt 1 -Zi 0 -Zs 20 -Zd 20 -Zc 5 -Zq 2 -Zr 2.429 -Zv 3
+r -t 0.026322004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+r -t 0.026322008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 2 -Zq 2 -Zv 3 -Zz 26 Xc 6 Xi 11 Xs 9 -Ss 1
+s -t 0.027000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+r -t 0.027050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 27 Xc 6 Xi 12 Xs 9 -Ss 1
+s -t 0.028000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+r -t 0.028050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 28 Xc 6 Xi 13 Xs 9 -Ss 1
+s -t 0.029000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+r -t 0.029050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 2 -Zz 29 Xc 6 Xi 14 Xs 9 -Ss 1
+s -t 0.030000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+r -t 0.030050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 30 Xc 6 Xi 15 Xs 9 -Ss 1
+s -t 0.031000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+r -t 0.031050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 31 Xc 6 Xi 16 Xs 9 -Ss 1
+s -t 0.032000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+r -t 0.032050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv 1 -Zz 32 Xc 6 Xi 17 Xs 9 -Ss 1
+s -t 0.033000000 -Zt 0 -Zi 0 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050004 -Zt 0 -Zi 9 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050005 -Zt 0 -Zi 3 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050005 -Zt 0 -Zi 8 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050006 -Zt 0 -Zi 4 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050006 -Zt 0 -Zi 7 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050007 -Zt 0 -Zi 1 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050007 -Zt 0 -Zi 6 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050007 -Zt 0 -Zi 5 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
+r -t 0.033050008 -Zt 0 -Zi 2 -Zs 200 -Zd -1 -Zc 1 -Zq 2 -Zv -1 -Zz 33 Xc 6 Xi 18 Xs 9 -Ss 1
